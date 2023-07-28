@@ -1,0 +1,29 @@
+img {
+    width: 100px;
+}
+
+h1 {
+    color: blue;
+    font-size: 40px;
+    font-family: calibri;
+    margin: 0;
+}
+
+div {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#output {
+    font-size: larger;
+    color: brown;
+}
+
+#input{
+    text-align: center;
+    padding: 10px 0;
+}
+
+button {
+    padding: 10px;
+}
